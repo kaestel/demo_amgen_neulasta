@@ -1,0 +1,10 @@
+body {min-height: 1044px; position: relative;}
+.desktop_wrapper {width: 1024px; height: 768px; position: absolute; top: 50%; left: 50%; margin-left: -636px; margin-top: -522px;
+	background: transparent url(/img/bg_ipad.png) no-repeat left top;
+	padding: 115px 124px 161px 125px;
+}
+.desktop_mask {width: 1024px; height: 768px; position: relative; overflow: hidden;}
+
+.warning {width: 1024px; height: 768px; position: absolute; z-index: 1000; top: 50%; left: 50%; margin-left: -511px; margin-top: -408px; text-align: center; background: #ffffff;}
+.warning h1 {padding: 270px 50px 30px;}
+.warning p {padding: 0 50px 20px;}

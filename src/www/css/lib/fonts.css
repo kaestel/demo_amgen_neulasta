@@ -1,0 +1,13 @@
+@font-face {
+	font-family: 'neulasta_header';
+	src: local('ITC Berkeley Oldstyle Std'), local('BerkeleyStdBlack'), url('/css/fonts/berkeleystd-black-webfont.svg#webfontlKNGIALz') format('svg'), url('/css/fonts/BerkeleyStd-Black.otf') format('opentype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "neulasta_sub";
+	src: local('Frutiger LT Std'), local('FrutigerLTStdRoman'), url('/css/fonts/frutigerltstd-roman-webfont.svg#webfontJk9KS15a') format('svg'), url('/css/fonts/FrutigerLTStd-Roman.otf') format('opentype');
+	font-weight: normal;
+	font-style: normal;
+}
