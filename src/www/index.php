@@ -8,7 +8,7 @@
 	<meta name="apple-mobile-web-app-capable" content="yes" />
 	<meta name="viewport" content="width=1024; initial-scale=1.0; maximum-scale=1.0;" />
 
-	<? if($_SESSION["dev_includes"]) { ?>
+	<? if($_SESSION["dev"]) { ?>
 		<link type="text/css" rel="stylesheet" media="all" href="/css/lib/seg_<?= $_SESSION["segment"] ?>_include.css" />
 		<script type="text/javascript" src="/js/lib/seg_<?= $_SESSION["segment"] ?>_include.js"></script>
 	<? } else { ?>
